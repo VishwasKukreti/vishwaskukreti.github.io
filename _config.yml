@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Vishwas Kukreti"
   avatar           : "profile.png"
-  bio              : "Research Scholar at SCIS, JNU. Interested in dynamics of complex systems. ML enthusiast"
+  bio              : "Research Scholar at SCIS, JNU. Interested in dynamics of complex systems.    ML enthusiast"
   location         : "JNU, New Delhi, India"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=JQEzmNEAAAAJ&hl=en"
   email            : vishwa22_sit@jnu.ac.in
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : #""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
