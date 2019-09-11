@@ -20,12 +20,12 @@ Work experience
 * Summer 2016: Research Intern
   * Directorate of Economics & Statistics, Uttarakhand Government
   * Duties included: Analysis of NSSO data and preparing reports accordingly
-  * Supervisor: Dr. Manoj Kumar Pant, Joint Director, DES
+  * Supervisor: Dr. Manoj Kumar Pant, Joint Director, [DES](http://des.uk.gov.in/)
 
 * March,2018 - Present: ML-BI apprentice
   * Dono Consulting
   * Duties included: Implementing ML solutions for government and private companies
-  * Supervisor: 
+  * Supervisor: Dipyaman Sanyal, Founder [Dono Consulting](http://www.dono.in/)
   
 Skills
 ======
