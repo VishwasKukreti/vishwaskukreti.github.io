@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, University of Delhi, 2014
+* M.Sc. in Computational & Integrative Sciences with specialization in Complex Systems, Jawaharlal Nehru University, 2017
+* Ph.D in Complex Systems, Jawaharlal Nehru University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2016: Research Intern
+  * Directorate of Economics & Statistics, Uttarakhand Government
+  * Duties included: Analysis of NSSO data and preparing reports accordingly
+  * Supervisor: Dr. Manoj Kumar Pant, Joint Director, DES
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March,2018 - Present: ML-BI apprentice
+  * Dono Consulting
+  * Duties included: Implementing ML solutions for government and private companies
+  * Supervisor: 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Physics
+* Machine Learning
+* Python
+* R
+* Tableau
+* OpenRefine
+* Cytoscape/Gephi
+* Netlogo
 
 Publications
 ======
