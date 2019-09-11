@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student at School of Computational & Integrative Sciences, Jawaharlal Nehru University. My research interest lie in the dynamics of complex system, especially, behaviour of complex socio-economic systems during phase transitions. I spend considerable amount of my time on BI/ML problems as a side project.
+I am a doctoral student at *__ETC Labs__, School of Computational & Integrative Sciences, Jawaharlal Nehru University*. My research interest lie in the dynamics of complex system, especially, behaviour of complex socio-economic systems during phase transitions. I spend considerable amount of my time on BI/ML problems as a side project.
+
