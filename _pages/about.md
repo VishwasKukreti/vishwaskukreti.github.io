@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vishwas Kukreti @ SCIS"
+title: "Vishwas Kukreti"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
