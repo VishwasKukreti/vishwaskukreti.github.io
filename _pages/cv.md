@@ -29,7 +29,7 @@ Work experience
   
 Skills
 ======
-* Physics
+* Complex systems
 * Machine Learning
 * Python
 * R
