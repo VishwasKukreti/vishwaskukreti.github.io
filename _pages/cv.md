@@ -58,4 +58,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Councillor from School of Computational & Integrative Sciences to Jawaharlal Nehru Students Union (JNUSU)
+
+[You can download the cv here](https://drive.google.com/file/d/1JT-UtahAQIGnp-M2FWzzWVb2Tg0Uz-c1/view?usp=sharing)
