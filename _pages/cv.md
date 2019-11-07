@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CurrV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -60,4 +60,4 @@ Service and leadership
 ======
 * Councillor from School of Computational & Integrative Sciences to Jawaharlal Nehru Students Union (JNUSU)
 
-[You can download the cv here](https://drive.google.com/file/d/1JT-UtahAQIGnp-M2FWzzWVb2Tg0Uz-c1/view?usp=sharing)
+[You can download the curriculum-vitae here](https://drive.google.com/file/d/1JT-UtahAQIGnp-M2FWzzWVb2Tg0Uz-c1/view?usp=sharing)
