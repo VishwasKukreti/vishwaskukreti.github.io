@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: ""
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Workshop"
+permalink: /teaching/2019-winter-teaching-1
+venue: "International Centre for Theoretical Sciences"
+date: 2019-05-29
+location: "Bangalore, India"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
