@@ -5,7 +5,6 @@ permalink: /publication/2017-05-11-paper-title-number-2
 excerpt: 'The compression ratio achieved by Burrows-Wheeler Transform have been compared against the compression achieved by gzip on human and mouse chromosomes.'
 date: 2017-05-11
 venue: ''
-paperurl: ''
 citation: ''
 ---
 
